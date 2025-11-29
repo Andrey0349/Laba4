@@ -360,7 +360,7 @@ int main()
             return 0;
         default:
             system("cls");
-            cout << "Enter 1-10!\n";
+            cout << "Enter 1-10!";
         }
     }
     return 0;
